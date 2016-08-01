@@ -1,0 +1,4 @@
+base_dir: '/Users/yohan/Music'
+images:
+    artist: ['thumb.jpg', "*.{jpg,gif,png}"]
+    album:  ['cover.jpg', 'folder.jpg', "*.{jpg,gif,png}"]
